@@ -15,7 +15,7 @@ To push content into this repository, you need to follow the next flow:
 > - Always pull before pushing to avoid overwriting coders' work.
 > - When merging into `develop`, open a Pull Request with a clear description of your changes.  
 > - ***NEVER*** use `--force`, as it may overwrite other developers' work.
-> - Every Pull Request must have approval from at least 7 coders before merging. 
+> - Every Pull Request must have approval from at least 10 coders before merging. 
 
 **TIPS**
 - Use `camelCase` or `snake_case` for branch names for consistency.
