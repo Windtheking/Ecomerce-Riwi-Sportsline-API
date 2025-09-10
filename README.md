@@ -43,4 +43,7 @@ To push content into this repository, you need to follow the next flow:
 **TIPS**
 - Use `camelCase` or `snake_case` for branch names for consistency.
 - Keep branch names short, descriptive, and lowercase for readability.
-
+- When commiting changes and not a merge for develop, add when necesary:
+    - hotfix: < text >
+    - feature: < text >
+    - bugfix: < text >
